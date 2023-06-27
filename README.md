@@ -12,7 +12,9 @@ Download CSV report of students
 # Running on your local system:
 Fork the project by clicking Fork Button.
 Clone the forked repository in your local system by running following the command in code editor terminal (e.g. VS code)
-git clone git@github.com:prashantsingh896/placement-cell.git
+# Git clone
+https://github.com/Ritesh-shekhar/Placement-Cell-Project
+
 run the command npm install in terminal to install all dependencies
 run the command node index in terminal to start the server on port 8000
 open up browser and type localhost:8000 in URL and you're good to go
